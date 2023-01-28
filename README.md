@@ -20,9 +20,10 @@ Xây dựng chức năng dò kết quả xổ số HCM
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Framework
+## Framework
 
 * UI: https://getbootstrap.com/
 * Controller: https://spring.io/projects/spring-boot
+
+## Technical
+Thư viện Jsoup: https://mvnrepository.com/artifact/org.jsoup/jsoup/1.15.3
