@@ -18,6 +18,8 @@
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE PROJECT
  * Xây dựng chức năng dò kết quả xổ số HCM.
+ * Sử dụng Bootstrap 5 để thiết kế giao diện trang web.
+ * Sử dụng Spring boot để xử lí các chức năng của trang.
  * Sử dụng thư viện Jsoup để bóc tách dữ liệu từ API có sẳn và sàng lọc kết quả.
  * Kiểm tra dữ liệu từ người dùng nhập vào với dữ liệu lấy được từ API để so sánh và thông báo.
 
