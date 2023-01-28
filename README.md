@@ -1,5 +1,5 @@
 # Lottery-Project
-       ![image](https://user-images.githubusercontent.com/83264542/215262849-6628b043-7daa-4106-9817-89af3f81779a.png)
+![image](https://user-images.githubusercontent.com/83264542/215263151-e83a5f22-4bd3-4142-96ba-22cea22b2ed5.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
