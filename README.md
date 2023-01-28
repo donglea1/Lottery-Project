@@ -8,7 +8,7 @@
     <li>
       <a href="#about-the-project">Thông tin dự án</a>
       <ul>
-        <li><a href="#built-with">Công nghệ sử dụng</a></li>
+        <li><a href="#Framework">Công nghệ sử dụng</a></li>
       </ul>
     </li>
     <li>
@@ -25,15 +25,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Thông tin dự án
-
-
-Use the `BLANK_README.md` to get started.
+Xây dựng chức năng dò kết quả xổ số HCM
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+### Framework
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Springboot][[https://spring.io/projects/spring-boot]][Springboot-url]
+* UI: https://getbootstrap.com/
+* Controller: https://spring.io/projects/spring-boot
