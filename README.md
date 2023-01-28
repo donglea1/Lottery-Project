@@ -6,18 +6,9 @@
   <summary>Mục lục</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Thông tin dự án</a>
-      <ul>
-        <li><a href="#Framework">Công nghệ sử dụng</a></li>
-      </ul>
+      <a href="#Thông tin dự án">Thông tin dự án</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">UI</a></li>
-        <li><a href="#installation">Controller</a></li>
-      </ul>
-    </li>
+   <li><a href="#Framework">Công nghệ sử dụng</a></li>
   </ol>
 </details>
 
